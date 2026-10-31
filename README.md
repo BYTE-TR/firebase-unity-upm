@@ -10,9 +10,9 @@ release that breaks that.
 Each package lives in its own folder; a tag pins the SDK version.
 
 ```json
-"com.google.firebase.app": "https://github.com/ByteTeknoloji/firebase-unity-upm.git?path=/com.google.firebase.app#14.1.0",
-"com.google.firebase.analytics": "https://github.com/ByteTeknoloji/firebase-unity-upm.git?path=/com.google.firebase.analytics#14.1.0",
-"com.google.firebase.remote-config": "https://github.com/ByteTeknoloji/firebase-unity-upm.git?path=/com.google.firebase.remote-config#14.1.0"
+"com.google.firebase.app": "https://github.com/BYTE-TR/firebase-unity-upm.git?path=/com.google.firebase.app#14.1.0",
+"com.google.firebase.analytics": "https://github.com/BYTE-TR/firebase-unity-upm.git?path=/com.google.firebase.analytics#14.1.0",
+"com.google.firebase.remote-config": "https://github.com/BYTE-TR/firebase-unity-upm.git?path=/com.google.firebase.remote-config#14.1.0"
 ```
 
 The packages depend on `com.google.external-dependency-manager`, which comes from OpenUPM:
